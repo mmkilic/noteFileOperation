@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Parameters>
+<Parameter name="name" type="STRING" value="M.KILIC"/>
+<Parameter name="machineType" type="STRING" value="workstation"/>
+<Parameter name="length" type="REAL_NUMBER" value="200.5"/>
+<Parameter name="qty" type="INTEGER" value="5"/>
+<Parameter name="completed" type="YES_NO" value="true"/>
+</Parameters>
