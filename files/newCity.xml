@@ -1,0 +1,10 @@
+<Cities>
+<City id="1"><name>Bratislava</name><population>432000</population></City>
+<City id="2"><name>Budapest</name><population>1759000</population></City>
+<City id="3"><name>Prague</name><population>1280000</population></City>
+<City id="4"><name>Warsaw</name><population>1748000</population></City>
+<City id="5"><name>Los Angeles</name><population>3971000</population></City>
+<City id="6"><name>New York</name><population>8550000</population></City>
+<City id="7"><name>Edinburgh</name><population>464000</population></City>
+<City id="8"><name>Berlin</name><population>3671000</population></City>
+</Cities>

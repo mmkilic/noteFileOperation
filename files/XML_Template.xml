@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Parameters>
+	<Parameter name="FB_NO" type="STRING" value="ABC123"/>
+	<Parameter name="CORE_DIA" type="INTEGER" value="689"/>
+	<Parameter name="CORE_CTR_TO_CTR" type="REAL_NUMBER" value="1317"/>
+	<Parameter name="CORE_INSULATION" type="YES_NO" value="FALSE"/>
+</Parameters>
